@@ -1,0 +1,11 @@
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\bin\Debug\netcoreapp3.1\10-4-lab.exe
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\bin\Debug\netcoreapp3.1\10-4-lab.deps.json
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\bin\Debug\netcoreapp3.1\10-4-lab.runtimeconfig.json
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\bin\Debug\netcoreapp3.1\10-4-lab.runtimeconfig.dev.json
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\bin\Debug\netcoreapp3.1\10-4-lab.dll
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\bin\Debug\netcoreapp3.1\10-4-lab.pdb
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\obj\Debug\netcoreapp3.1\10-4-lab.csprojAssemblyReference.cache
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\obj\Debug\netcoreapp3.1\10-4-lab.AssemblyInfoInputs.cache
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\obj\Debug\netcoreapp3.1\10-4-lab.AssemblyInfo.cs
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\obj\Debug\netcoreapp3.1\10-4-lab.dll
+D:\Users\sdoff\source\repos\10-4-lab\10-4-lab\obj\Debug\netcoreapp3.1\10-4-lab.pdb
